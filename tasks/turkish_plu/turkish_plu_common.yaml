@@ -1,4 +1,5 @@
 group: turkish_plu
+task: turkish_plu
 output_type: multiple_choice
 training_split: train
 validation_split: validation
