@@ -1,4 +1,4 @@
-include: turkish_plu_common_yaml
+include: turkish_plu_common.yaml
 task: turkish_plu_step_inference
 dataset_path: mcemilg/turkish-plu-step-inference
 doc_to_text: "Hedef: {{sent2}} Örnek Adım:"
