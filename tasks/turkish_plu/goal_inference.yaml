@@ -1,4 +1,4 @@
-include: turkish_plu_common_yaml
+include: turkish_plu_common.yaml
 task: turkish_plu_goal_inference
 dataset_path: mcemilg/turkish-plu-goal-inference
 doc_to_text: "Örnek Adım: {{sent2}} Hedef:"
