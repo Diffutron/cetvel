@@ -1,4 +1,4 @@
-include: turkish_plu_common_yaml
+include: turkish_plu_common.yaml
 task: turkish_plu_step_ordering
 dataset_path: mcemilg/turkish-plu-step-ordering
 doc_to_text: "Hedef: {{sent2}}"
