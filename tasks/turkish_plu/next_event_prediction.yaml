@@ -1,4 +1,4 @@
-include: turkish_plu_common_yaml
+include: turkish_plu_common.yaml
 task: turkish_plu_next_event_prediction
 dataset_path: mcemilg/turkish-plu-next-event-prediction
 doc_to_text: "Hedef: {{sent1}} Adım: {{sent2}} Bir sonraki adım:"
